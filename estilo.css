@@ -1,0 +1,37 @@
+.fundo{
+background-color: rgb(121, 69, 69);
+}
+.navbar{
+ background-color: rgb(228, 211, 211);
+
+}
+svg{
+  width: 60px;
+  height:40px ;
+  margin-top: -5px;
+  
+}
+h6{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: black;
+}
+.logo{
+  font-size:40px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(194, 78, 42);
+}
+.navbar-toggler-icon{
+  color: rgb(5, 5, 5);
+  margin-right: 20px;
+}
+.offcanvas-title{
+  color: rgb(97, 83, 83);
+}
+.navbar-toggler{
+  color: rgb(228, 211, 211);
+}
+.card{
+  margin-top: 50px;
+}
+
+
